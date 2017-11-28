@@ -1,0 +1,22 @@
+{
+  "name": "arduino-caller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lotora-Tech/ArduinoCaller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lotora-Tech/ArduinoCaller/issues"
+  },
+  "homepage": "https://github.com/Lotora-Tech/ArduinoCaller#readme",
+  "dependencies": {
+    "serialport": "^6.0.4"
+  }
+}
